@@ -7,13 +7,13 @@ const socialLinks = [
   {
     name: 'GitHub',
     icon: <FaGithub size={24} />,
-    url: 'https://github.com/madariss5/BLACKSKY-MDV9,
+    url: 'https://github.com/madariss5/BLACKSKY-MDV9',
     color: 'hover:bg-gray-800 hover:text-white'
   },
   {
     name: 'Discord',
     icon: <FaDiscord size={24} />,
-    url: 'https://discord.gg/D4p8B8SE,
+    url: 'https://discord.gg/D4p8B8SE',
     color: 'hover:bg-indigo-600 hover:text-white'
   },
   {
@@ -25,7 +25,7 @@ const socialLinks = [
   {
     name: 'WhatsApp',
     icon: <FaWhatsapp size={24} />,
-    url: 'https://wa.me/4915563151347,
+    url: 'https://wa.me/4915563151347',
     color: 'hover:bg-green-500 hover:text-white'
   }
 ];

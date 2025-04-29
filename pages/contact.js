@@ -205,14 +205,14 @@ export default function Contact() {
                 <div className="space-y-4">
                   <div className="flex items-center">
                     <FaEnvelope className="text-accent mr-3" size={20} />
-                    <a href="mailto:contact@blacksky-md.com" className="text-gray-600 dark:text-gray-300 hover:text-accent dark:hover:text-accent transition-colors">
-                      contact@blacksky-md.com
+                    <a href="mailto:contact.blackskymd@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-accent dark:hover:text-accent transition-colors">
+                      contact.blackskymd@gmail.com
                     </a>
                   </div>
                   <div className="flex items-center">
                     <FaWhatsapp className="text-accent mr-3" size={20} />
-                    <a href="https://wa.me/your-number" className="text-gray-600 dark:text-gray-300 hover:text-accent dark:hover:text-accent transition-colors">
-                      +XX XXX XXX XXXX
+                    <a href="https://wa.me/4915563151347" className="text-gray-600 dark:text-gray-300 hover:text-accent dark:hover:text-accent transition-colors">
+                      +4915563151347
                     </a>
                   </div>
                 </div>
